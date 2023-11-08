@@ -9,7 +9,7 @@ console.log("tổng là:", c);
 
 
 
-// Inc consple
+// Inc console
 // console.log "TỔNG LÀ:", C);
 
 //  Hàm ALERT()
@@ -24,4 +24,10 @@ console.log("tổng là:", c);
 //confirm("bạn có mướn nhập số này ko:");
 
 // in trên trang web: document.write();
-//document.write("tổng
+//document.write("tổng là:" + c);
+// cách 2 
+document. getElementById("name").innerHTML = "<span>Hello</span>";
+document. getElementById("name").innerText = "<span>Hello</span>";
+
+// đây là hàm in tự làm
+//function print_customiz
